@@ -2,4 +2,4 @@ Documentacion del proyecto
 
 adios a todo
 
-bloqueo
+bloqueos
